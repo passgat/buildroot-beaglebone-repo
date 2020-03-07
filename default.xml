@@ -11,4 +11,8 @@
 	   name="buildroot/buildroot"
 	   remote="github" revision="refs/tags/2020.02-rc3" />
 
+  <project path="buildroot-external-passgat"
+	   name="passgat/buildroot-external-passgat"
+	   remote="github" revision="master" />
+
 </manifest>
