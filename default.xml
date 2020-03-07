@@ -15,6 +15,10 @@
 	   name="passgat/buildroot-external-passgat"
 	   remote="github" revision="master" />
 
+  <project path="linux"
+	   name="beagleboard/linux"
+	   remote="github" revision="refs/tags/4.19.79-ti-r30" />
+
   <project path="u-boot"
 	   name="u-boot/u-boot"
 	   remote="github" revision="refs/tags/v2019.07" />
