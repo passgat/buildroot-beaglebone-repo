@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="https://github.com" />
+
+  <default remote="github"
+           sync-j="4"
+           sync-c="true" />
+
+  <project path="buildroot"
+	   name="buildroot/buildroot"
+	   remote="github" revision="refs/tags/2020.02-rc3" />
+
+</manifest>
