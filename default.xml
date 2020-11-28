@@ -21,6 +21,6 @@
 
   <project path="u-boot"
 	   name="u-boot/u-boot"
-	   remote="github" revision="refs/tags/v2019.07" />
+	   remote="github" revision="master" />
 
 </manifest>
