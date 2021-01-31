@@ -16,8 +16,8 @@
 	   remote="github" revision="master" />
 
   <project path="linux"
-	   name="beagleboard/linux"
-	   remote="github" revision="refs/tags/4.19.79-ti-r30" />
+	   name="torvalds/linux"
+	   remote="github" revision="master" />
 
   <project path="u-boot"
 	   name="u-boot/u-boot"
